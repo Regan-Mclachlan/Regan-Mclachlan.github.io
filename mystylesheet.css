@@ -1,5 +1,5 @@
 body {
-    background: #ddcbcb url(Background.JPG) no-repeat center;
+    background: #ddcbcb url(Background.jpg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     z-index: 1;
@@ -82,3 +82,24 @@ span {
     background-color: rgba(107, 190, 245, 0.397);
 
   }
+#lefthead {
+  position: fixed;
+  right: 1300px;
+  top: 140px;
+  height: 250px;
+  width: 200px;
+  
+  
+}
+
+#righthead{
+  position: fixed;
+  top: 130px;
+  left: 1300px;
+  height: 250px;
+  width: 200px;
+  background-attachment: fixed;
+  margin:;
+
+
+}
