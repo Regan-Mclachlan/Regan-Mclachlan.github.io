@@ -5,15 +5,16 @@ body{
 .sidenav {
   height: 100%; 
   width: 160px; 
-  position: fixed;
-  z-index: 1; 
+  position: fixed; 
   top: 0; 
   left: 0;
   background-color: #111; 
-  overflow-x: 
-  padding-top: 20px;
-
+  padding-top: 20px
   
+}
+#text{
+  text-align: center;
+
 }
 #about{
   margin-bottom: 40px;
